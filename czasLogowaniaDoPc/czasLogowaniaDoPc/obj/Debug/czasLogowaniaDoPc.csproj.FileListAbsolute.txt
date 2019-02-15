@@ -1,0 +1,7 @@
+C:\Users\slowi\source\repos\czasLogowaniaDoPc\czasLogowaniaDoPc\bin\Debug\czasLogowaniaDoPc.exe.config
+C:\Users\slowi\source\repos\czasLogowaniaDoPc\czasLogowaniaDoPc\bin\Debug\czasLogowaniaDoPc.exe
+C:\Users\slowi\source\repos\czasLogowaniaDoPc\czasLogowaniaDoPc\bin\Debug\czasLogowaniaDoPc.pdb
+C:\Users\slowi\source\repos\czasLogowaniaDoPc\czasLogowaniaDoPc\obj\Debug\czasLogowaniaDoPc.csprojAssemblyReference.cache
+C:\Users\slowi\source\repos\czasLogowaniaDoPc\czasLogowaniaDoPc\obj\Debug\czasLogowaniaDoPc.csproj.CoreCompileInputs.cache
+C:\Users\slowi\source\repos\czasLogowaniaDoPc\czasLogowaniaDoPc\obj\Debug\czasLogowaniaDoPc.exe
+C:\Users\slowi\source\repos\czasLogowaniaDoPc\czasLogowaniaDoPc\obj\Debug\czasLogowaniaDoPc.pdb
